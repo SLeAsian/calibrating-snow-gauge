@@ -1,6 +1,7 @@
 # Descriptions for the 4 papers
 
-#calibrating-snow-gauge
+# calibrating-snow-gauge
+
 Contribution: Arthur Chang, Raya Kavosh, Siddharth Saha
 
 Language: R
