@@ -1,1 +1,0 @@
-# calibrating-snow-gauge
